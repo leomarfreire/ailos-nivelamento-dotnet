@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ASMNbcI3Jzjv25TkgCNJzSMxrd+sW3IqERutifDijj5ZJxfMXGe8SM+1RtRzyQGClVC36l34sHlOUZGqLOyQzw==",
+  "dgSpecHash": "AQy5FcXUGbw=",
   "success": true,
-  "projectFilePath": "C:\\teste\\Questao1\\Questao1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Ambiente\\03-Pessoal\\ailos\\05-DotNet\\01-TesteNivelamento\\Questao1\\Questao1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lecarval\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\lecarval\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\lecarval\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\lecarval\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.35\\microsoft.netcore.app.host.win-x64.6.0.35.nupkg.sha512"
+  ],
   "logs": []
 }

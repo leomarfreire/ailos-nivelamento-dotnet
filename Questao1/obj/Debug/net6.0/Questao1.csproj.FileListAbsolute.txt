@@ -1,0 +1,15 @@
+C:\Ambiente\03-Pessoal\ailos\05-DotNet\01-TesteNivelamento\Questao1\obj\Debug\net6.0\Questao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ambiente\03-Pessoal\ailos\05-DotNet\01-TesteNivelamento\Questao1\obj\Debug\net6.0\Questao1.AssemblyInfoInputs.cache
+C:\Ambiente\03-Pessoal\ailos\05-DotNet\01-TesteNivelamento\Questao1\obj\Debug\net6.0\Questao1.AssemblyInfo.cs
+C:\Ambiente\03-Pessoal\ailos\05-DotNet\01-TesteNivelamento\Questao1\obj\Debug\net6.0\Questao1.csproj.CoreCompileInputs.cache
+C:\Ambiente\03-Pessoal\ailos\05-DotNet\01-TesteNivelamento\Questao1\obj\Debug\net6.0\Questao1.sourcelink.json
+C:\Ambiente\03-Pessoal\ailos\05-DotNet\01-TesteNivelamento\Questao1\bin\Debug\net6.0\Questao1.exe
+C:\Ambiente\03-Pessoal\ailos\05-DotNet\01-TesteNivelamento\Questao1\bin\Debug\net6.0\Questao1.deps.json
+C:\Ambiente\03-Pessoal\ailos\05-DotNet\01-TesteNivelamento\Questao1\bin\Debug\net6.0\Questao1.runtimeconfig.json
+C:\Ambiente\03-Pessoal\ailos\05-DotNet\01-TesteNivelamento\Questao1\bin\Debug\net6.0\Questao1.dll
+C:\Ambiente\03-Pessoal\ailos\05-DotNet\01-TesteNivelamento\Questao1\bin\Debug\net6.0\Questao1.pdb
+C:\Ambiente\03-Pessoal\ailos\05-DotNet\01-TesteNivelamento\Questao1\obj\Debug\net6.0\Questao1.dll
+C:\Ambiente\03-Pessoal\ailos\05-DotNet\01-TesteNivelamento\Questao1\obj\Debug\net6.0\refint\Questao1.dll
+C:\Ambiente\03-Pessoal\ailos\05-DotNet\01-TesteNivelamento\Questao1\obj\Debug\net6.0\Questao1.pdb
+C:\Ambiente\03-Pessoal\ailos\05-DotNet\01-TesteNivelamento\Questao1\obj\Debug\net6.0\Questao1.genruntimeconfig.cache
+C:\Ambiente\03-Pessoal\ailos\05-DotNet\01-TesteNivelamento\Questao1\obj\Debug\net6.0\ref\Questao1.dll
